@@ -1,0 +1,16 @@
+/*层叠样式*/
+.left .left_box .nav ul li .nav_four {
+	color: rgba(0,0,0,.4);border:none;
+}
+.left .left_box .nav ul li:hover a{
+	border-bottom: 1px solid #000;color:#000;transition: all 0.5s;
+}
+.left .left_box .nav ul li a.nav_five {
+	border-bottom: 1px solid #000;color:#000;
+}
+
+/*regard*/
+
+.right .right_box .right_txt p {
+	text-align: center;font-size: 14px;line-height: 50px;
+}

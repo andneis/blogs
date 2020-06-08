@@ -1,0 +1,44 @@
+{
+  "id": "1870863",
+  "name": "no name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11918908",
+      "name": "定位城市图标",
+      "font_class": "dingweichengshitubiao",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "15185863",
+      "name": "向下",
+      "font_class": "xiangxia-copy",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "15185883",
+      "name": "向下",
+      "font_class": "xiangxia-copy-copy",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "15185888",
+      "name": "向下",
+      "font_class": "xiangxia-copy1",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "356482",
+      "name": "向下",
+      "font_class": "xiangxia",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    }
+  ]
+}
